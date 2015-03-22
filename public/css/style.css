@@ -147,16 +147,17 @@ a img {
   font-family: 'Open Sans Condensed', sans-serif;
   font-size: 30px;
   font-weight: 600;
-  width: 395px;
+  width: 385px;
   height: 50px;
   cursor: pointer;
   -webkit-appearance: none;
-  line-height: 49px;
+  line-height: 40px;
   margin: 0 auto;
   padding: 5px 5px;
   text-decoration: none;
   overflow: hidden;
   text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  text-align: center;
 }
 
 .blackbox #optin-button:hover {
