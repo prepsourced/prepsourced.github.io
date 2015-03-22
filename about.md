@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+tags:
+- private
 ---
 
 <p class="message">

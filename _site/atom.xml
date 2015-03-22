@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2015-03-08T21:06:35+13:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <title>prepsourced.com</title>
+ <link href="http://prepsourced.com/atom.xml" rel="self"/>
+ <link href="http://prepsourced.com/"/>
+ <updated>2015-03-22T15:58:13+13:00</updated>
+ <id>http://prepsourced.com</id>
  <author>
-   <name>Mark Otto</name>
-   <email>markdotto@gmail.com</email>
+   <name>Craig Bensemann</name>
+   <email>craig.bensemann@gmail.com</email>
  </author>
 
  
  <entry>
    <title>Introducing Lanyon</title>
-   <link href="http://lanyon.getpoole.com/2014/01/02/introducing-lanyon/"/>
+   <link href="http://prepsourced.com/2014/01/02/introducing-lanyon/"/>
    <updated>2014-01-02T00:00:00+13:00</updated>
-   <id>http://lanyon.getpoole.com/2014/01/02/introducing-lanyon</id>
+   <id>http://prepsourced.com/2014/01/02/introducing-lanyon</id>
    <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
 
 &lt;h3&gt;Built on Poole&lt;/h3&gt;
